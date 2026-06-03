@@ -2,7 +2,7 @@
 Kompaktowy, dwupozycyjny przełącznik kołyskowy (potocznie zwany *bistabilnym* lub *kołyską*). Jest to przełącznik mechaniczny, który po naciśnięciu pozostaje w wybranej pozycji (**włączony - ON** lub **wyłączony - OFF**) aż do ponownego przełączenia przez użytkownika. 
 
 Dzięki miniaturowym wymiarom montażowym (**15x10 mm**) jest to jeden z najchętniej wybieranych przełączników do odcinania głównego zasilania w robotach mobilnych, modelach RC oraz autorskich obudowach projektów DIY.
-![Przełącznik](20260602_193453.jpg)
+![Przełącznik](../obrazy/20260602_193453.jpg)
 
 ---
 

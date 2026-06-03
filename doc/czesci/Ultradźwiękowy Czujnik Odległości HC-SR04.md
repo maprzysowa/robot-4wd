@@ -2,7 +2,7 @@
 Niezwykle popularny, tani i łatwy w obsłudze czujnik przeznaczony do bezkontaktowego pomiaru odległości w zakresie **od 2 cm do 400 cm**. Działa na zasadzie sonarowej – wysyła falę ultradźwiękową o częstotliwości 40 kHz, która po odbiciu od przeszkody wraca do czujnika. 
 
 Mierząc czas `t` między wysłaniem a odebraniem impulsu, mikrokontroler (np. Arduino, ESP32, Raspberry Pi) jest w stanie bardzo precyzyjnie obliczyć dystans do obiektu.
-![HC-SR04](20260602_194525.jpg)
+![HC-SR04](../obrazy/20260602_194525.jpg)
 
 ---
 

@@ -2,7 +2,7 @@
 Dedykowany uchwyt montażowy (wspornik) zaprojektowany specjalnie pod kształt i wymiary ultradźwiękowego czujnika odległości **HC-SR04**. Wykonany najczęściej z lekkiego, przezroczystego lub kolorowego akrylu (pleksiglasu) o grubości ok. 2-3 mm bądź z trwałego tworzywa sztucznego.
 
 Uchwyt ten rozwiązuje powszechny problem stabilnego mocowania czujnika na podwoziu robota mobilnego, chroniąc jednocześnie jego delikatne elementy elektroniczne (kondensatory i kwarc na plecach płytki) przed mechanicznym uszkodzeniem lub zwarciem o ramę pojazdu.
-![Uchwyt czujnika odległości](20260602_195011.jpg)
+![Uchwyt czujnika odległości](../obrazy/20260602_195011.jpg)
 
 ---
 

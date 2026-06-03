@@ -1,7 +1,7 @@
 Kultowa nakładka silnikowa (**Motor Shield**) stworzona specjalnie dla płytek kompatybilnych z **Arduino UNO** (w tym UNO R3 oraz nowszych wersji, jak UNO R4). Moduł oparty jest na dwóch dwukanałowych mostkach H typu **L293D** oraz jednym rejestrze przesuwnym **74HC595**, który pozwala zaoszczędzić piny Arduino poprzez szeregowe sterowanie kierunkiem obrotów.
 
 Ta nakładka to idealne rozwiązanie "wszystko w jednym" do budowy pojazdów gąsienicowych, ramion robotycznych oraz zaawansowanych platform jezdnych (np. robotów z kołami Mecanum), ponieważ eliminuje potrzebę stosowania płytek stykowych i plątaniny kabli.
-![L293D](20260602_193515.jpg)
+![L293D](../obrazy/20260602_193515.jpg)
 
 ---
 

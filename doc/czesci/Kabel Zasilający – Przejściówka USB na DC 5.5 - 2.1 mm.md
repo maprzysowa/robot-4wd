@@ -2,7 +2,7 @@
 Niezwykle praktyczny kabel zasilający, który pozwala na zasilanie urządzeń elektronicznych wyposażonych w standardowe gniazdo **DC 5.5/2.1 mm** bezpośrednio z dowolnego portu USB. 
 
 Przewód ten stanowi idealne uzupełnienie opisanego wcześniej *Modułu Zasilania Płytki Stykowej MB-102* oraz płytek Arduino (takich jak *UNO R4*), umożliwiając ich wygodne zasilanie z powerbanku, ładowarki do telefonu lub portu USB w komputerze bez konieczności używania dedykowanych, stacjonarnych zasilaczy sieciowych.
-![Kabel](20260602_195124.jpg)
+![Kabel](../obrazy/20260602_195124.jpg)
 
 ---
 

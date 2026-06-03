@@ -2,7 +2,7 @@
 Lekki, uniwersalny mechanizm obrotowo-pochylny typu **Pan-Tilt (2-DOF)** wykonany z wytrzymałego tworzywa sztucznego (formowanego wtryskowo). Uchwyt został zaprojektowany specjalnie jako platforma montażowa dla miniaturowych kamer oraz czujników, umożliwiając im ruch w dwóch płaszczyznach: poziomej (Pan) oraz pionowej (Tilt).
 
 Konstrukcja jest idealnie dopasowana do najpopularniejszych mikroserwomechanizmów na rynku, takich jak **TowerPro SG90** oraz ich mocniejszych odpowiedników z metalowymi zębatkami – **MG90S**.
-![Pan-Tilt](20260602_194717.jpg)
+![Pan-Tilt](../obrazy/20260602_194717.jpg)
 
 ---
 

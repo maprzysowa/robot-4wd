@@ -2,7 +2,7 @@
 Niezwykle popularne, lekkie i kompaktowe mikroserwo o wadze zaledwie **9 gramów**. Jest to absolutny standard w świecie modelarstwa RC oraz edukacyjnej robotyki DIY. Pozwala na precyzyjne kontrolowanie pozycji wału w zakresie **od 0° do 180°**.
 
 Dzięki sterowaniu sygnałem PWM, serwo SG90 jest banalnie proste w obsłudze i współpracuje bezpośrednio z praktycznie każdym mikrokontrolerem, takim jak Arduino, ESP32, Raspberry Pi czy układy STM32.
-![TowerPro SG90](20260602_194804.jpg)
+![TowerPro SG90](../obrazy/20260602_194804.jpg)
 
 ---
 

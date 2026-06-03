@@ -2,7 +2,7 @@
 Zaawansowana, zintegrowana płytka rozwojowa stworzona z myślą o projektach sztucznej inteligencji, widzenia komputerowego (**Edge AI**) oraz Internetu Rzeczy (IoT). Moduł oparty jest na potężnym, dwurdzeniowym mikrokontrolerze **ESP32-S3** (z obsługą instrukcji wektorowych przyspieszających sieci neuronowe) i został wyposażony w sensor optyczny **OV3660** o rozdzielczości **2 MPx** oraz obiektyw o szerokim kącie widzenia.
 
 Dzięki natywnej łączności **Wi-Fi i Bluetooth**, dużej pamięci PSRAM oraz wsparciu dla frameworków takich jak ESP-WHO (rozpoznawanie twarzy) czy ESP-DL (głębokie uczenie), moduł ten pozwala na uruchamianie algorytmów sztucznej inteligencji bezpośrednio „na krawędzi” (on-device), bez konieczności ciągłego przesyłania obrazu do chmury.
-![Kamera AI](20260602_195049.jpg)
+![Kamera AI](../obrazy/20260602_195049.jpg)
 
 ---
 
