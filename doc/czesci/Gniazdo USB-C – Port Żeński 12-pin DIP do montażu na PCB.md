@@ -2,7 +2,7 @@
 Kompaktowe i niezwykle wytrzymałe złącze żeńskie **USB typu C** przeznaczone do montażu na płytkach drukowanych (PCB). Ta wersja złącza została zaprojektowana w hybrydowym układzie **DIP (Dual In-line Package)**, co oznacza, że piny sygnałowe są przystosowane do klasycznego **montażu przewlekanego**. 
 
 W przeciwieństwie do standardowych złączy USB-C w wersji SMD (montaż powierzchniowy), wersja 12-pin DIP jest znacznie łatwiejsza do przylutowania w warunkach domowych, co czyni ją idealnym wyborem do projektów DIY, prototypowania oraz napraw uszkodzonych portów zasilania w elektronice użytkowej.
-![[20260602_194608.jpg|200]]
+![Gniazdo USB-C](../obrazy/20260602_194608.jpg)
 
 ---
 

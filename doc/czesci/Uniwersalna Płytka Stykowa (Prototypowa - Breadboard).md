@@ -2,7 +2,7 @@
 Niezbędne narzędzie w każdym warsztacie elektronicznym, umożliwiające **błyskawiczne i bezlutowe** budowanie, testowanie oraz modyfikowanie obwodów elektronicznych. Zamiast trwałego łączenia elementów lutownicą, komponenty (rezystory, diody, czujniki) oraz przewody połączeniowe Dupont wciska się bezpośrednio w otwory płytki.
 
 Pod plastikową obudową znajdują się specjalne, sprężyste blaszki przewodzące (zazwyczaj niklowane lub fosforobrązowe), które pewnie zaciskają się na nóżkach elementów, gwarantując prawidłowy kontakt elektryczny.
-![[20260602_193553.jpg|200]]
+![Płytka](20260602_193553.jpg)
 
 ---
 

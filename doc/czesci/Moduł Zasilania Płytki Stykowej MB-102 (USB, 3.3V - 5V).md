@@ -2,7 +2,7 @@
 Dedykowany moduł zasilacza stworzony z myślą o współpracy z najpopularniejszą płytką stykową **MB-102** (830 oraz 400 otworów). Konstrukcja płytki została zaprojektowana tak, aby dolne piny (goldpiny) idealnie wpinkiwały się w boczne szyny zasilające płytki stykowej, eliminując potrzebę prowadzenia plątaniny przewodów.
 
 Moduł ten pozwala na jednoczesne i niezależne dystrybuowanie napięcia **3.3V** oraz **5V** na dwie osobne linie zasilające płytki stykowej, co jest kluczowe w projektach łączących układy o różnej logice (np. 5V dla Arduino UNO R4 i 3.3V dla żyroskopu MPU-6050).
-![[20260602_194749.jpg|200]]
+![Zasilacz](20260602_194749.jpg)
 
 ---
 

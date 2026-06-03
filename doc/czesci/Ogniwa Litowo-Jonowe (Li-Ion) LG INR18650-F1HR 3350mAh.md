@@ -2,7 +2,7 @@
 Wysokiej jakości, oryginalne ogniwo przemysłowe typu **18650** o bardzo wysokiej gęstości energii, wyprodukowane przez renomowaną firmę **LG Chem**. Model **F1HR** charakteryzuje się imponującą pojemnością nominalną wynoszącą **3350 mAh**, co czyni go jednym z najwydajniejszych ogniw w tym formacie dostępnych na rynku.
 
 Ogniwo to posiada płaski plus (**Flat Top**) i nie ma wbudowanego elektronicznego zabezpieczenia (jest to ogniwo niezabezpieczone - **Unprotected**). Doskonale współpracuje z opisanym wcześniej *Koszykiem 2S* oraz *Ładowarką ogniw 2S USB-C*, stanowiąc potężny fundament zasilania dla platformy robota 4WD Mecanum.
-![[20260602_194929.jpg|200]]
+![Ogniwa](20260602_194929.jpg)
 
 ---
 

@@ -2,7 +2,7 @@
 Niezbędny element wyposażenia każdego warsztatu elektronicznego i pracowni DIY. Elastyczne przewody połączeniowe (tzw. **kable Dupont**) zakończone standardowymi pinami o skoku **2.54 mm** (0.1"). Umożliwiają błyskawiczne, bezlutowe łączenie komponentów, mikrokontrolerów, czujników oraz płytek stykowych (breadboard).
 
 Przewody dostarczane są zazwyczaj w formie wygodnej taśmy 40-pinowej, z której można pojedynczo odrywać potrzebną liczbę kabli. Każda żyła posiada inny kolor izolacji (taśma wielokolorowa/tęczowa), co ogromnie ułatwia identyfikację sygnałów w złożonych projektach.
-![[20260602_193538.jpg|200]]
+![Przewody](20260602_193538.jpg)
 
 ---
 

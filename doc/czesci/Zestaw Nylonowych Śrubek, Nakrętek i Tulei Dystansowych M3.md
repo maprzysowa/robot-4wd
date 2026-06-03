@@ -2,7 +2,7 @@
 Niezbędny zestaw montażowy dla każdego konstruktora robotów, elektronika i pasjonata druku 3D. Zawiera komplet elementów gwintowanych w standardzie **M3** wykonanych z trwałego, czarnego lub białego **nylonu**. 
 
 W przeciwieństwie do klasycznych śrub metalowych, elementy nylonowe są **całkowicie nieprzewodzące prądu**, dzięki czemu idealnie nadają się do bezpiecznego montażu płytek drukowanych (takich jak Arduino UNO R4, sterownik L298N, wyświetlacz LCD czy moduł kamery ESP32-S3) bezpośrednio na podwoziu robota bez ryzyka przypadkowego zwarcia ścieżek sygnałowych.
-![[20260602_195110.jpg|200]]
+![Tuleje](20260602_195110.jpg)
 
 ---
 

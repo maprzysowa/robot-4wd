@@ -2,7 +2,7 @@
 Klasyczny, niezwykle popularny alfanumeryczny wyświetlacz LCD zdolny do wyświetlania tekstu w **2 liniach po 16 znaków w każdej**. Prezentowana wersja posiada niebieskie tło oraz kontrastowe, białe znaki, co zapewnia doskonałą czytelność wyświetlanych komunikatów.
 
 Głównym atutem modułu jest **fabrycznie przylutowany konwerter magistrali I2C** (oparty na układzie PCF8574). Dzięki niemu, zamiast tradycyjnego, skomplikowanego podłączania aż 16 przewodów do mikrokontrolera, do pełnej obsługi ekranu wymagane są **tylko 2 piny sygnałowe** (SDA i SCL). To drastycznie oszczędza piny w Arduino czy ESP32.
-![[20260602_193428.jpg|200]]
+![LCD](20260602_193428.jpg)
 
 ---
 

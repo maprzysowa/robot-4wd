@@ -2,7 +2,7 @@
 Podstawowy zestaw elementów złącznych oznaczonych symbolem **M** (metryczne), będący fundamentem montażowym w mechanice, robotyce oraz pracach serwisowych. W przeciwieństwie do opisanego wcześniej zestawu nylonowego, elementy metalowe (stalowe) są przeznaczone do przenoszenia **dużych obciążeń mechanicznych**, zapewniając maksymalną sztywność i trwałość konstrukcji.
 
 Zestaw ten idealnie nadaje się do skręcania elementów konstrukcyjnych robota – mocowania silników z metalowymi przekładniami, łączenia aluminiowych elementów ramy platformy 4WD oraz mocowania cięższych podzespołów, takich jak uchwyty ramion robotycznych czy obudowy akumulatorów.
-![[20260602_194653.jpg|200]]
+![Zestaw śrubek](20260602_194653.jpg)
 
 ---
 

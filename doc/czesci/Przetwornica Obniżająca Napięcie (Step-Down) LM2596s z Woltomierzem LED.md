@@ -3,7 +3,7 @@
 Wydajny moduł impulsowej przetwornicy DC-DC (Step-Down) oparty na kultowym i niezawodnym układzie **LM2596s**. Urządzenie pozwala na precyzyjne obniżenie napięcia wejściowego z zakresu do 40V do pożądanego napięcia wyjściowego, które reguluje się za pomocą wbudowanego potencjometru wieloobrotowego.
 
 Głównym atutem tej wersji modułu jest **zintegrowany cyfrowy woltomierz LED** (trzycyfrowy wyświetlacz siedmiosegmentowy). Pozwala on na bieżąco monitorować napięcie wejściowe lub wyjściowe bez konieczności używania zewnętrznego multimetru.
-![[20260602_194908.jpg|200]]
+![LM259s](20260602_194908.jpg)
 
 ---
 

@@ -2,7 +2,7 @@
 Kompaktowy, dwuosiowy mechanizm obrotowo-pochylny (**Pan-Tilt**) przeznaczony do montażu lekkich kamer (np. dedykowanych do Raspberry Pi, ESP32-CAM) lub czujników (np. ultradźwiękowego HC-SR04). Konstrukcja została zaprojektowana specjalnie do współpracy z dwoma mikroserwami **TowerPro SG90** (lub MG90S z metalowymi zębatkami).
 
 Uchwyt ten pozwala robotom mobilnym oraz systemom monitoringu na aktywne „rozglądanie się” – realizuje ruch w poziomie (oś Pan) oraz w pionie (oś Tilt).
-![[20260602_194733.jpg|200]]
+![Uchwyt kamery](20260602_194733.jpg)
 
 ---
 

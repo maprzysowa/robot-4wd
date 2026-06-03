@@ -2,7 +2,7 @@
 Nowoczesny, wysoce precyzyjny i miniaturowy czujnik przeznaczony do równoczesnego pomiaru **temperatury oraz wilgotności względnej powietrza**. Wyposażony w zaawansowany, skalibrowany fabrycznie chip ASIC oraz ulepszony pojemnościowy element sensorowy MEMS. 
 
 Dzięki wbudowanemu konwerterowi poziomów logicznych oraz stabilizatorowi napięcia, moduł charakteryzuje się szerokim zakresem zasilania **od 1.8V do 5.0V**, co pozwala na bezproblemową współpracę z układami 3.3V (ESP32, Raspberry Pi) oraz 5V (Arduino UNO R4).
-![[20260602_193341.jpg|200]]
+![Czujnik AHT10](../obrazy/20260602_193341.jpg)
 
 ---
 

@@ -3,7 +3,7 @@
 Kompaktowa, wytrzymała i zaawansowana platforma jezdna przeznaczona do budowy robotów mobilnych, pojazdów autonomicznych oraz projektów DIY. Dzięki zastosowaniu **dwóch poziomów z anodowanego aluminium** konstrukcja jest wyjątkowo sztywna, lekka i odporna na uszkodzenia mechaniczne.
 
 Kluczowym elementem platformy są **koła Mecanum**, które w połączeniu z niezależnym napędem **4WD** zapewniają robotowi **wielokierunkowość (omnidirectional)**. Pojazd potrafi poruszać się w dowolnym kierunku – w przód, w tył, na boki (jazda krabem) oraz po skosie, a także obracać się w miejscu, co pozwala na genialną zwrotność w ciasnych przestrzeniach.
-![[20260602_194158.jpg|200]]
+![Platforma](20260602_194158.jpg)
 
 ---
 

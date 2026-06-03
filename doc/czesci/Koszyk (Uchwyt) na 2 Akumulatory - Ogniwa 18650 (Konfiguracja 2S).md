@@ -2,7 +2,7 @@
 Klasyczny, wysokiej jakości uchwyt (koszyk) przeznaczony do montażu **dwóch ogniw litowo-jonowych (Li-Ion) typu 18650**. Moduł łączy ogniwa w sposób **szeregowy (2S)**, co pozwala uzyskać napięcie znamionowe 7.4V (oraz napięcie maksymalne 8.4V przy pełnym naładowaniu).
 
 Koszyk jest podstawowym elementem zasilania w robotyce mobilnej oraz projektach DIY. Znakomicie współpracuje z opisanymi wcześniej komponentami, takimi jak platforma robota Mecanum, ładowarka 2S USB-C oraz mikrokontroler UNO R4.
-![[20260602_194939.jpg|200]]
+![Uchwyt na akumulatory](20260602_194939.jpg)
 
 ---
 

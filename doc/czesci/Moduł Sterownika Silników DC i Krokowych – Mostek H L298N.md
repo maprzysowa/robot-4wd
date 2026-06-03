@@ -4,7 +4,7 @@ Niezwykle popularny, wszechstronny i mocny moduł sterownika oparty na układzie
 
 Dzięki konstrukcji typu **Mostek H (H-Bridge)**, układ idealnie nadaje się do budowy robotów mobilnych (w tym platform 2WD i 4WD), pojazdów RC oraz systemów automatyki DIY opartych na Arduino, ESP32, Raspberry Pi czy AVR.
 
-![[20260602_194313.jpg|200]]
+![LN298](20260602_194313.jpg)
 
 ---
 

@@ -3,7 +3,7 @@
 Rewolucyjna ewolucja kultowej płytki rozwojowej UNO. Wersja **UNO R4 WiFi** łączy w sobie klasyczny, uwielbiany przez twórców format (rozmieszczenie pinów) z potężną, nowoczesną architekturą 32-bitową oraz pełną łącznością bezprzewodową. 
 
 Sercem płytki jest wydajny mikrokontroler **Renesas RA4M1 (ARM Cortex-M4)** taktowany zegarem 48 MHz, wspierany przez koprocesor **ESP32-S3**, który odpowiada za bezproblemową komunikację Wi-Fi oraz Bluetooth. To idealna platforma do projektów IoT (Internet of Things), zaawansowanej robotyki oraz automatyki domowej.
-![[20260602_193403.jpg|200]]
+![Arduino R4](20260602_193403.jpg)
 
 ---
 
