@@ -1,3 +1,4 @@
+### Koszyk (Uchwyt) na 2 Akumulatory - Ogniwa 18650
 
 Klasyczny, wysokiej jakości uchwyt (koszyk) przeznaczony do montażu **dwóch ogniw litowo-jonowych (Li-Ion) typu 18650**. Moduł łączy ogniwa w sposób **szeregowy (2S)**, co pozwala uzyskać napięcie znamionowe 7.4V (oraz napięcie maksymalne 8.4V przy pełnym naładowaniu).
 

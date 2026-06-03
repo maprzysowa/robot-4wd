@@ -1,3 +1,6 @@
+### Lista części
+
+---
 
 - [Moduł Ładowarki Ogniw Li-Ion 18650 2S 2A USB-C (Step-Up)](czesci/Modu%C5%82%20%C5%81adowarki%20Ogniw%20Li-Ion%2018650%202S%202A%20USB-C%20(Step-Up).md)
 - [Platforma Robota Omni 4WD – Podwozie 2-poziomowe z Kołami Mecanum](czesci/Platforma%20Robota%20Omni%204WD%20%E2%80%93%20Podwozie%202-poziomowe%20z%20Ko%C5%82ami%20Mecanum.md)

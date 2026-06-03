@@ -1,4 +1,4 @@
-
+### Moduł Żyroskopu i Akcelerometru 3-osiowego MPU-6050
 
 Niezwykle popularny i precyzyjny moduł czujnika inertnego (IMU) typu **6-DOF** (6 stopni swobody). Łączy w sobie **3-osiowy akcelerometr** oraz **3-osiowy żyroskop** w jednym układzie scalonym. Dzięki zintegrowanemu procesorowi ruchu **DMP (Digital Motion Processor)**, moduł potrafi samodzielnie wykonywać złożone obliczenia algorytmów fuzji czujników, odciążając główny mikrokontroler (np. Arduino, ESP32 czy Raspberry Pi).
 

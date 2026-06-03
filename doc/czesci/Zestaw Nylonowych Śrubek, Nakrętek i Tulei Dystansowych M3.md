@@ -1,3 +1,4 @@
+### Zestaw Nylonowych Śrubek, Nakrętek i Tulei Dystansowych M3
 
 Niezbędny zestaw montażowy dla każdego konstruktora robotów, elektronika i pasjonata druku 3D. Zawiera komplet elementów gwintowanych w standardzie **M3** wykonanych z trwałego, czarnego lub białego **nylonu**. 
 

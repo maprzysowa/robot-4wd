@@ -1,3 +1,4 @@
+ ### Ultradźwiękowy Czujnik Odległości HC-SR04
  
 Niezwykle popularny, tani i łatwy w obsłudze czujnik przeznaczony do bezkontaktowego pomiaru odległości w zakresie **od 2 cm do 400 cm**. Działa na zasadzie sonarowej – wysyła falę ultradźwiękową o częstotliwości 40 kHz, która po odbiciu od przeszkody wraca do czujnika. 
 

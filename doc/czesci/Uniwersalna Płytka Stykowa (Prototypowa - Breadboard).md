@@ -1,3 +1,4 @@
+### Uniwersalna Płytka Stykowa (Prototypowa - Breadboard)
 
 Niezbędne narzędzie w każdym warsztacie elektronicznym, umożliwiające **błyskawiczne i bezlutowe** budowanie, testowanie oraz modyfikowanie obwodów elektronicznych. Zamiast trwałego łączenia elementów lutownicą, komponenty (rezystory, diody, czujniki) oraz przewody połączeniowe Dupont wciska się bezpośrednio w otwory płytki.
 

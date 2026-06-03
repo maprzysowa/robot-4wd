@@ -1,3 +1,4 @@
+### Cyfrowy Czujnik Temperatury i Wilgotności AHT10 (I2C, 1.8V - 5V)
 
 Nowoczesny, wysoce precyzyjny i miniaturowy czujnik przeznaczony do równoczesnego pomiaru **temperatury oraz wilgotności względnej powietrza**. Wyposażony w zaawansowany, skalibrowany fabrycznie chip ASIC oraz ulepszony pojemnościowy element sensorowy MEMS. 
 

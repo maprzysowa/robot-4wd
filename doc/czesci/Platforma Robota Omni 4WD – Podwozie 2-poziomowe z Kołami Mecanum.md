@@ -1,4 +1,4 @@
-
+### Platforma Robota Omni 4WD – Podwozie 2-poziomowe z Kołami Mecanum
 
 Kompaktowa, wytrzymała i zaawansowana platforma jezdna przeznaczona do budowy robotów mobilnych, pojazdów autonomicznych oraz projektów DIY. Dzięki zastosowaniu **dwóch poziomów z anodowanego aluminium** konstrukcja jest wyjątkowo sztywna, lekka i odporna na uszkodzenia mechaniczne.
 

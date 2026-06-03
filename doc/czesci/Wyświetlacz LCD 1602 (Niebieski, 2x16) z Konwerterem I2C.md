@@ -1,3 +1,4 @@
+### Wyświetlacz LCD 1602 (Niebieski, 2x16) z Konwerterem I2C
 
 Klasyczny, niezwykle popularny alfanumeryczny wyświetlacz LCD zdolny do wyświetlania tekstu w **2 liniach po 16 znaków w każdej**. Prezentowana wersja posiada niebieskie tło oraz kontrastowe, białe znaki, co zapewnia doskonałą czytelność wyświetlanych komunikatów.
 

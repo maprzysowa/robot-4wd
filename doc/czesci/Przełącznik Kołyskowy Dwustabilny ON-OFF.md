@@ -1,3 +1,4 @@
+### Przełącznik Kołyskowy Dwustabilny ON-OFF
 
 Kompaktowy, dwupozycyjny przełącznik kołyskowy (potocznie zwany *bistabilnym* lub *kołyską*). Jest to przełącznik mechaniczny, który po naciśnięciu pozostaje w wybranej pozycji (**włączony - ON** lub **wyłączony - OFF**) aż do ponownego przełączenia przez użytkownika. 
 

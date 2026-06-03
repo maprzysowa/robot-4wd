@@ -1,3 +1,4 @@
+### Przewody Połączeniowe Dupont do Arduino (Męsko-Męskie oraz Męsko-Żeńskie)
 
 Niezbędny element wyposażenia każdego warsztatu elektronicznego i pracowni DIY. Elastyczne przewody połączeniowe (tzw. **kable Dupont**) zakończone standardowymi pinami o skoku **2.54 mm** (0.1"). Umożliwiają błyskawiczne, bezlutowe łączenie komponentów, mikrokontrolerów, czujników oraz płytek stykowych (breadboard).
 

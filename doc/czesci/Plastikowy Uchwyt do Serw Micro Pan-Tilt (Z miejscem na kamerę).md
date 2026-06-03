@@ -1,3 +1,4 @@
+### Plastikowy Uchwyt do Serw Micro Pan-Tilt
 
 Lekki, uniwersalny mechanizm obrotowo-pochylny typu **Pan-Tilt (2-DOF)** wykonany z wytrzymałego tworzywa sztucznego (formowanego wtryskowo). Uchwyt został zaprojektowany specjalnie jako platforma montażowa dla miniaturowych kamer oraz czujników, umożliwiając im ruch w dwóch płaszczyznach: poziomej (Pan) oraz pionowej (Tilt).
 

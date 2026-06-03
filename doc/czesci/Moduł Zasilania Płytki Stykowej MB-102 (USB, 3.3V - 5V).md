@@ -1,3 +1,4 @@
+### Moduł Zasilania Płytki Stykowej MB-102 (USB, 3.3V - 5V)
 
 Dedykowany moduł zasilacza stworzony z myślą o współpracy z najpopularniejszą płytką stykową **MB-102** (830 oraz 400 otworów). Konstrukcja płytki została zaprojektowana tak, aby dolne piny (goldpiny) idealnie wpinkiwały się w boczne szyny zasilające płytki stykowej, eliminując potrzebę prowadzenia plątaniny przewodów.
 

@@ -1,3 +1,4 @@
+### Ogniwa Litowo-Jonowe (Li-Ion) LG INR18650-F1HR 3350mAh
 
 Wysokiej jakości, oryginalne ogniwo przemysłowe typu **18650** o bardzo wysokiej gęstości energii, wyprodukowane przez renomowaną firmę **LG Chem**. Model **F1HR** charakteryzuje się imponującą pojemnością nominalną wynoszącą **3350 mAh**, co czyni go jednym z najwydajniejszych ogniw w tym formacie dostępnych na rynku.
 

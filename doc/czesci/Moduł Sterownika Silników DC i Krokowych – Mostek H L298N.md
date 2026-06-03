@@ -1,4 +1,4 @@
-
+### Moduł Sterownika Silników DC i Krokowych – Mostek H L298N
 
 Niezwykle popularny, wszechstronny i mocny moduł sterownika oparty na układzie **L298N**. Pozwala na niezależne kontrolowanie kierunku oraz prędkości obrotowej **dwóch silników prądu stałego (DC)** lub **jednego dwufazowego silnika krokowego**. 
 

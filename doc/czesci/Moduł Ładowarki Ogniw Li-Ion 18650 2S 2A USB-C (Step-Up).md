@@ -1,4 +1,4 @@
-
+### Moduł Ładowarki Ogniw Li-Ion 18650 2S 2A USB-C
 
 Wydajny i kompaktowy moduł ładowarki przeznaczony do pakietów składających się z **dwóch ogniw litowo-jonowych (Li-Ion) połączonych szeregowo (2S)**. Urządzenie zostało wyposażone w nowoczesny port **USB-C** oraz inteligentny układ podwyższający napięcie (Step-Up), co pozwala na ładowanie pakietu 2S (napięcie końcowe 8.4V) ze standardowego źródła USB 5V.
 ![Ładowarka](../obrazy/20260602_195000.jpg)

@@ -1,3 +1,4 @@
+### Uniwersalny Zestaw Śrub Metrycznych, Podkładek i Nakrętek (Stalowych)
 
 Podstawowy zestaw elementów złącznych oznaczonych symbolem **M** (metryczne), będący fundamentem montażowym w mechanice, robotyce oraz pracach serwisowych. W przeciwieństwie do opisanego wcześniej zestawu nylonowego, elementy metalowe (stalowe) są przeznaczone do przenoszenia **dużych obciążeń mechanicznych**, zapewniając maksymalną sztywność i trwałość konstrukcji.
 

@@ -1,3 +1,4 @@
+### Moduł Kamery AI ESP32-S3 – OV3660 2MPx
 
 Zaawansowana, zintegrowana płytka rozwojowa stworzona z myślą o projektach sztucznej inteligencji, widzenia komputerowego (**Edge AI**) oraz Internetu Rzeczy (IoT). Moduł oparty jest na potężnym, dwurdzeniowym mikrokontrolerze **ESP32-S3** (z obsługą instrukcji wektorowych przyspieszających sieci neuronowe) i został wyposażony w sensor optyczny **OV3660** o rozdzielczości **2 MPx** oraz obiektyw o szerokim kącie widzenia.
 

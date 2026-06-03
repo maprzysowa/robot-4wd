@@ -1,3 +1,4 @@
+### Uchwyt Kamery - Ramie Robota typu Pan-Tilt 
 
 Kompaktowy, dwuosiowy mechanizm obrotowo-pochylny (**Pan-Tilt**) przeznaczony do montażu lekkich kamer (np. dedykowanych do Raspberry Pi, ESP32-CAM) lub czujników (np. ultradźwiękowego HC-SR04). Konstrukcja została zaprojektowana specjalnie do współpracy z dwoma mikroserwami **TowerPro SG90** (lub MG90S z metalowymi zębatkami).
 

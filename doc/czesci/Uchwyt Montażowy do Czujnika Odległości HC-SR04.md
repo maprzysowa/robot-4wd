@@ -1,3 +1,4 @@
+### Uchwyt Montażowy do Czujnika Odległości HC-SR04
 
 Dedykowany uchwyt montażowy (wspornik) zaprojektowany specjalnie pod kształt i wymiary ultradźwiękowego czujnika odległości **HC-SR04**. Wykonany najczęściej z lekkiego, przezroczystego lub kolorowego akrylu (pleksiglasu) o grubości ok. 2-3 mm bądź z trwałego tworzywa sztucznego.
 

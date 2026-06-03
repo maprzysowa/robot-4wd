@@ -1,3 +1,4 @@
+### Gniazdo USB-C – Port Żeński 12-pin DIP do montażu na PCB
 
 Kompaktowe i niezwykle wytrzymałe złącze żeńskie **USB typu C** przeznaczone do montażu na płytkach drukowanych (PCB). Ta wersja złącza została zaprojektowana w hybrydowym układzie **DIP (Dual In-line Package)**, co oznacza, że piny sygnałowe są przystosowane do klasycznego **montażu przewlekanego**. 
 

@@ -1,3 +1,4 @@
+### Kabel Zasilający – Przejściówka USB na DC 5.5 - 2.1 mm
 
 Niezwykle praktyczny kabel zasilający, który pozwala na zasilanie urządzeń elektronicznych wyposażonych w standardowe gniazdo **DC 5.5/2.1 mm** bezpośrednio z dowolnego portu USB. 
 
