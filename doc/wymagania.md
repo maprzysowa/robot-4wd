@@ -38,13 +38,18 @@ Pojazd realizuje ruch w trzech sekwencyjnie implementowanych trybach (zgodnie z 
 
 ---
 
-## 3. System Bezpieczeństwa (Unikanie Kolizji)
+## 3. System Bezpieczeństwa (Unikanie Kolizji i Detekcja Zderzeń)
 
-W pętli głównej Arduino UNO R4 stale procesowane są dane z czujnika odległości **HC-SR04** zamontowanego na froncie.
+W pętli głównej Arduino UNO R4 stale procesowane są dane z czujników w celu aktywnej ochrony konstrukcji robota przed uszkodzeniem.
 
-* **W trybach manualnych (2.a, 2.b):** Zbliżenie się do przeszkody na odległość **< 20 cm** aktywuje wymuszone zatrzymanie silników (Override). Algorytm blokuje wektor ruchu w stronę przeszkody, zezwalając operatorowi jedynie na wycofanie pojazdu lub odskok w bok (strafe).
-* **W trybie autonomicznym (2.c):** Wykrycie przeszkody na dystansie **< 40 cm** przerywa procedurę śledzenia. Robot wykonuje autonomiczny manewr ominięcia: wykorzystując zalety kół Mecanum, wykonuje płynny ruch translacyjny w bok (omijanie bez obracania kamery i utraty obiektu z kadru), mija przeszkodę, a następnie wraca do procedury śledzenia.
-* **Failsafe (Utrata Sygnału):** Brak odebrania ramki danych z aplikacji mobilnej przez czas dłuższy niż 1000 ms w trybie manualnym skutkuje natychmiastowym zatrzymaniem wszystkich silników.
+* **Proaktywne unikanie kolizji (HC-SR04):**
+    * **W trybach manualnych (2.a, 2.b):** Zbliżenie się do przeszkody na odległość **< 20 cm** aktywuje wymuszone zatrzymanie silników (Override). Algorytm blokuje wektor ruchu w stronę przeszkody, zezwalając operatorowi jedynie na wycofanie pojazdu lub odskok w bok (strafe).
+    * **W trybie autonomicznym (2.c):** Wykrycie przeszkody na dystansie **< 40 cm** przerywa procedurę śledzenia. Robot wykonuje autonomiczny manewr ominięcia: wykorzystując zalety kół Mecanum, wykonuje płynny ruch translacyjny w bok (omijanie bez obracania kamery i utraty obiektu z kadru), mija przeszkodę, a następnie wraca do procedury śledzenia.
+* **Reaktywna detekcja kolizji / Pasywne bezpieczeństwo (MPU-6050):**
+    * Algorytm monitoruje w czasie rzeczywistym wypadkowe przyspieszenie liniowe na osiach X i Y (płaszczyzna ruchu pojazdu). 
+    * W przypadku wykrycia nagłego skoku przeciążenia (szpilka akcelerometru przekraczająca zdefiniowany próg programowy, np. **$|a| > 2g$** wywołany fizycznym uderzeniem w przeszkodę), system natychmiast odcina zasilanie silników (Emergency Brake).
+    * Robot przechodzi w stan błędu, wysyła alert telemetryczny o kolizji do aplikacji mobilnej oraz na ekran LCD 1602 i ignoruje dalsze komendy ruchu do momentu manualnego zresetowania/potwierdzenia błędu przez operatora w aplikacji.
+* **Failsafe (Utrata Sygnału):** Brak odebrania ramki danych z aplikacji mobilnej przez czas dłuższy niż 1000 ms w trybie manualnym skutkuje natychmiastowym zatrzymaniem wszystkich silników w celu uniknięcia "ucieczki" robota po zerwaniu połączenia Wi-Fi.
 
 ---
 
