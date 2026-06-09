@@ -109,3 +109,38 @@ graph TD
     %% --- KOMUNIKACJA BEZPRZEWODOWA ---
     ESP32 -.->|Strumień Wideo Wi-Fi| App((Aplikacja Mobilna))
     Uno -.->|Komendy Ruchu Wi-Fi| App
+```
+---
+
+### 4.2. Szczegółowe Mapowanie Pinów (Pinout)
+
+Poniższa tabela przedstawia fizyczną i logiczną alokację pinów mikrokontrolera Arduino UNO R4 WiFi. Z uwagi na fakt, że nakładka L293D Motor Shield rezerwuje większość pinów cyfrowych, do obsługi czujników wykorzystano piny analogowe (A0, A1) działające w trybie cyfrowym oraz dedykowaną magistralę I2C.
+
+| Komponent | Pin Komponentu | Pin Arduino UNO R4 | Kierunek (I/O) | Typ Sygnału | Opis Funkcjonalny |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **L293D Shield** | M1_PWM / M1_DIR | D11 / D4 | Output | PWM / Digital | Sterowanie silnikiem Front-Left (Silnik 1) |
+| **L293D Shield** | M2_PWM / M2_DIR | D3 / D5 | Output | PWM / Digital | Sterowanie silnikiem Front-Right (Silnik 2) |
+| **L293D Shield** | M3_PWM / M3_DIR | D6 / D7 | Output | PWM / Digital | Sterowanie silnikiem Back-Left (Silnik 3) |
+| **L293D Shield** | M4_PWM / M4_DIR | D9 / D8 | Output | PWM / Digital | Sterowanie silnikiem Back-Right (Silnik 4) |
+| **Serwo SG90** | PWM (Pomarańczowy) | D10 | Output | PWM | Sterowanie osią Pan/Tilt (Złącze SERVO_1 na Shieldzie) |
+| **ESP32-S3 Cam** | TX | D0 (RX1) | Input | UART Hardware | Odbiór danych/koordynatów z koprocesora wizyjnego |
+| **ESP32-S3 Cam** | RX | D1 (TX1) | Output | UART Hardware | Wysyłanie komend konfiguracyjnych do kamery |
+| **HC-SR04** | Trigger | A0 | Output | Digital | Wyzwolenie pomiaru odległości (impuls 10 µs) |
+| **HC-SR04** | Echo | A1 | Input | Digital | Odczyt czasu powrotu fali (pomiar odległości) |
+| **MPU-6050** | SDA | Dedykowany SDA | In/Out | I2C Data | Współdzielona szyna danych (Adres: `0x68`) |
+| **MPU-6050** | SCL | Dedykowany SCL | Output | I2C Clock | Współdzielona szyna zegarowa |
+| **LCD 1602** | SDA | Dedykowany SDA | In/Out | I2C Data | Współdzielona szyna danych (Adres: `0x27` lub `0x3F`) |
+| **LCD 1602** | SCL | Dedykowany SCL | Output | I2C Clock | Współdzielona szyna zegarowa |
+| **AHT10** | SDA | Dedykowany SDA | In/Out | I2C Data | Współdzielona szyna danych (Adres: `0x38`) |
+| **AHT10** | SCL | Dedykowany SCL | Output | I2C Clock | Współdzielona szyna zegarowa |
+
+---
+
+### 4.3. Krytyczne Konfiguracje Zworkowe i Zasilające
+
+Podczas montażu elektroniki należy bezwzględnie przestrzegać poniższej konfiguracji, aby zapobiec przeciążeniom prądowym:
+
+* **Zworka PWR (Power Jumper) na L293D Shield:** **WYCIĄGNIĘTA (ZDJĘTA)**. 
+  * *Uzasadnienie:* Pakiet akumulatorów Li-Ion 2S (do 8.4V) podłączony do złącza śrubowego `EXT_PWR` na shieldzie nie może zasilać stabilizatora Arduino bezpośrednio przez pin Vin. Arduino UNO R4 WiFi posiada delikatniejszą sekcję zasilania niż wersja R3.
+* **Zasilanie Logiki (Arduino, ESP32-S3, Sensory):** Realizowane centralnie z szyny 5V płytki stykowej MB-102, która otrzymuje stabilne, odfiltrowane napięcie z przetwornicy LM2596s.
+* **Separacja Mas (GND):** Wszystkie punkty masy (GND akumulatora, GND przetwornicy, GND Arduino, GND L293D oraz GND płytki stykowej) **muszą być ze sobą fizycznie połączone** w jednym punkcie (wspólna masa odniesienia dla sygnałów logicznych).
